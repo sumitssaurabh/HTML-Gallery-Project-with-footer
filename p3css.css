@@ -1,0 +1,116 @@
+.navbar{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+}
+.logo{
+    background-color: rgb(178, 173, 173);
+    border-radius: 10px;
+    height:20px;
+    width: 20px;
+    color: rgb(178,173,173);
+    float: right;
+ }
+
+ .text{
+     text-align: left;
+ }
+ .btnb{
+    border-radius: 5px;
+    
+ }
+ .footer{
+    background-color: black;
+    width: auto;
+    height: 300px;
+    color: beige;
+ }
+   
+
+.sign-up{
+        background-color: rgb(226, 198, 16);
+        border: 2px solid rgb(19, 18, 18);
+        border-radius:5px  ;
+        text-align: center;
+        font: bold;
+        height: 35px;
+        width: 70px;
+       
+}
+.items{
+     border-radius: 2px;
+     background-color: black;
+     color: aliceblue;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ 
+   margin: 20px;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.btn1{
+    height: 32px;
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+    background-color: black;
+    
+}
+.btn2{
+    height: 32px;
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+    background-color: black;
+    
+
+      
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
